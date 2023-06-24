@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    
     let jokes = [
         Joke(setup:"Why did the scarecrow win an award?", punchline: "Because it was outstanding in its field!"),
         Joke(setup: "What did the pig say on a hot day?", punchline: "I'm a bacon"),
